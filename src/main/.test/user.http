@@ -3,3 +3,15 @@ Content-Type: application/json
 ###
 GET http://localhost:8080/users/2
 Content-Type: application/json
+###
+
+GET http://localhost:8080/categories
+###
+
+GET http://localhost:8080/products/3
+
+###
+
+GET http://localhost:8080/orders
+
+
